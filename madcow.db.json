@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "history": [
+    {
+      "target": {
+        "squat": 95,
+        "bench": 87.5,
+        "row": 75,
+        "overhead": 55,
+        "deadlift": 110
+      },
+      "failed": {
+        "overhead": true
+      },
+      "completionTime": 1549091929727
+    }
+  ],
+  "target": {
+    "squat": 100,
+    "bench": 90,
+    "row": 77.5,
+    "overhead": 51,
+    "deadlift": 115
+  }
+}

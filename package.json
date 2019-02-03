@@ -1,0 +1,25 @@
+{
+  "name": "madcow-target",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "madcow": "git+ssh://git@github.com/peterhancock/madcow.git"
+  },
+  "scripts": {
+    "build:target": "{ echo '---\\n---\\n\\n' && madcow; } > index.md",
+    "build:export": "madcow export > madcow.db.json",
+    "build": "npm run build:target && npm run build:export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterHancock/madcow-target.git"
+  },
+  "author": "Peter Hancock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterHancock/madcow-target/issues"
+  },
+  "homepage": "https://github.com/PeterHancock/madcow-target#readme"
+}

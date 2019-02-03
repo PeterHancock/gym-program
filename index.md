@@ -2,14 +2,15 @@
 title: madcow
 ---
 
-# Madcow
+
+## Targets
 
 | Exercise | Target |
 | ---      | ------ |
 | Squat    | 100 |
 | Bench    | 90 |
 | Row      | 77.5 |
-| Overhead | 52.5 |
+| Overhead | 51 |
 | Deadlift | 115 |
 
 ## Monday
@@ -25,7 +26,7 @@ title: madcow
 | Exercise |     |     |     |     |     |
 | ---      | --- | --- | --- | --- | --- |
 | Squat    | 50 × 5 | 62.5 × 5 | 75 × 5 | 75 × 5 |
-| Overhead | 26.5 × 5 | 33 × 5 | 39.5 × 5 | 46 × 5 | 52.5 × 5 |
+| Overhead | 25.5 × 5 | 32 × 5 | 38.5 × 5 | 44.5 × 5 | 51 × 5 |
 | Deadlift | 57.5 × 5 | 72 × 5 | 86.5 × 5 | 100.5 × 5 | 115 × 5 |
 
 ## Friday
