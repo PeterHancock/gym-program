@@ -24,13 +24,27 @@
       },
       "failed": {},
       "completionTime": 1549700317247
+    },
+    {
+      "target": {
+        "squat": 102.5,
+        "bench": 91,
+        "row": 78.5,
+        "overhead": 52.5,
+        "deadlift": 118
+      },
+      "failed": {
+        "bench": true,
+        "row": true
+      },
+      "completionTime": 1550315696438
     }
   ],
   "target": {
-    "squat": 102.5,
+    "squat": 105,
     "bench": 91,
     "row": 78.5,
-    "overhead": 52.5,
-    "deadlift": 118
+    "overhead": 54,
+    "deadlift": 121
   }
 }
