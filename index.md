@@ -12,6 +12,8 @@
 | Overhead | 52.5 |
 | Deadlift | 120 |
 
+Squat + Deadlift + Bench @ 1RM ≈ 361 (796 lb)
+
 ## Monday
 
 | Exercise |     |     |     |     |     |
