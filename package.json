@@ -5,12 +5,14 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "madcow": "git+ssh://git@github.com/peterhancock/madcow.git"
+    "madcow": "git+ssh://git@github.com/peterhancock/madcow.git",
+    "texas-method": "git+ssh://git@github.com/peterhancock/texas-method.git"
   },
   "scripts": {
-    "build:target": "{ echo '---\\n---\\n\\n' && madcow; } > index.md",
-    "build:export": "madcow export > madcow.db.json",
-    "build": "npm run build:target && npm run build:export"
+    "build:madcow": "{ echo '---\\n---\\n\\n' && madcow; } > index.md",
+    "build:texasA": "{ echo '---\\ntitle: \"Texas Week A\"\\n---\\n\\n' && texas-method A; } > texas-week-A.md",
+    "build:texasB": "{ echo '---\\ntitle: \"Texas Week B\"\\n---\\n\\n' && texas-method B; } > texas-week-B.md",
+    "build:export": "madcow export > madcow.db.json && texas-method export > texas-method.db.json"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "history": [],
+  "target": {
+    "squat": 120,
+    "bench": 95,
+    "row": 80,
+    "overhead": 50,
+    "deadlift": 125
+  }
+}
