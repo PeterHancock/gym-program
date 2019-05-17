@@ -28,7 +28,7 @@ Squat + Deadlift + Bench @ 1RM ≈ 408 (899 lb)
 | Exercise |     |     |     |     |     |
 | ---      | --- | --- | --- | --- | --- |
 | Squat    | 70.5 × 5 | 82.5 × 5 | 94 × 5 | 94 × 5 |
-| Bench    | 29.5 × 5 | 34 × 5 | 39 × 5 | 39 × 5 | 39 × 5 |
+| Overhead | 29.5 × 5 | 34 × 5 | 39 × 5 | 39 × 5 | 39 × 5 |
 | Chin-up  | failure | failure | failure |
 
 ## Friday A
