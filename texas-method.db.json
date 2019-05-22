@@ -1,11 +1,23 @@
 {
   "version": 1,
-  "history": [],
+  "history": [
+    {
+      "completed": {
+        "squat": 120,
+        "row": 80,
+        "overhead": 50,
+        "deadlift": 125
+      },
+      "failed": {},
+      "completionTimeEpoch": 1558116833956,
+      "completionTime": "Fri May 17 2019"
+    }
+  ],
   "target": {
-    "squat": 120,
+    "squat": 123,
     "bench": 95,
-    "row": 80,
-    "overhead": 50,
-    "deadlift": 125
+    "row": 82,
+    "overhead": 51,
+    "deadlift": 131.5
   }
 }
