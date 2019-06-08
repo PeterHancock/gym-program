@@ -6,7 +6,7 @@
         "squat": 120,
         "row": 80,
         "overhead": 50,
-        "deadlift": 125
+        "deadlift": 112.5
       },
       "failed": {},
       "completionTimeEpoch": 1558116833956,
@@ -15,7 +15,7 @@
     {
       "completed": {
         "squat": 123,
-        "deadlift": 131.5
+        "deadlift": 120
       },
       "failed": {
         "bench": 95,
@@ -28,20 +28,30 @@
       "completed": {
         "row": 82,
         "overhead": 51,
-        "deadlift": 138
+        "deadlift": 125
       },
       "failed": {
         "squat": 125
       },
       "completionTimeEpoch": 1559502925885,
       "completionTime": "Sun Jun 02 2019"
+    },
+    {
+      "completed": {
+        "squat": 125,
+        "bench": 95,
+        "deadlift": 130
+      },
+      "failed": {},
+      "completionTimeEpoch": 1559981093543,
+      "completionTime": "Sat Jun 08 2019"
     }
   ],
   "target": {
-    "squat": 125,
-    "bench": 95,
-    "row": 84,
+    "squat": 128,
+    "bench": 97.5,
+    "row": 85,
     "overhead": 52.5,
-    "deadlift": 145
+    "deadlift": 130
   }
 }
