@@ -8,13 +8,13 @@ title: "Texas Week A"
 | Exercise | Target | ~1RM |
 | ---      | ------ | ---- |
 | Squat    | 131 | 153 |
-| Deadlift | 137 | 160 |
+| Deadlift | 140.5 | 164 |
 | Bench    | 97.5 | 114 |
 | Row      | 87 | 102 |
-| Overhead | 54 | 63 |
+| Overhead | 55.5 | 65 |
 
 
-Squat + Deadlift + Bench @ 1RM ≈ 426 (940 lb)
+Squat + Deadlift + Bench @ 1RM ≈ 431 (949 lb)
     
 ## Monday A
 
@@ -29,7 +29,7 @@ Squat + Deadlift + Bench @ 1RM ≈ 426 (940 lb)
 | Exercise |     |     |     |     |     |
 | ---      | --- | --- | --- | --- | --- |
 | Squat    | 75 × 5 | 87.5 × 5 | 100 × 5 | 100 × 5 |
-| Overhead | 31 × 5 | 36 × 5 | 41.5 × 5 | 41.5 × 5 | 41.5 × 5 |
+| Overhead | 32 × 5 | 37 × 5 | 42.5 × 5 | 42.5 × 5 | 42.5 × 5 |
 | Chin-up  | failure | failure | failure |
 
 ## Friday A
@@ -38,6 +38,6 @@ Squat + Deadlift + Bench @ 1RM ≈ 426 (940 lb)
 | ---      | --- | --- | --- | --- | --- | --- |
 | Squat    | 65.5 × 5 | 82 × 3 | 98.5 × 2 | 111.5 × 2 | 118 × 1 | 131 × 5 |
 | Bench    | 49 × 5 | 61 × 3 | 73 × 2 | 83 × 2 | 88 × 1 | 97.5 × 5 |
-| Deadlift | 68.5 × 5 | 85.5 × 5 | 103 × 5 | 120 × 5 | 137 × 5 |
+| Deadlift | 70.5 × 5 | 88 × 5 | 105.5 × 5 | 123 × 5 | 140.5 × 5 |
 
 
