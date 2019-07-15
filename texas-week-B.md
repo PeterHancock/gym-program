@@ -8,13 +8,13 @@ title: "Texas Week B"
 | Exercise | Target | ~1RM |
 | ---      | ------ | ---- |
 | Squat    | 123 | 144 |
-| Deadlift | 147.5 | 172 |
+| Deadlift | 130 | 152 |
 | Bench    | 92.5 | 108 |
 | Row      | 82.5 | 96 |
 | Overhead | 57 | 67 |
 
 
-Squat + Deadlift + Bench @ 1RM ≈ 424 (934 lb)
+Squat + Deadlift + Bench @ 1RM ≈ 403 (889 lb)
     
 ## Monday B
 
@@ -38,5 +38,5 @@ Squat + Deadlift + Bench @ 1RM ≈ 424 (934 lb)
 | ---      | --- | --- | --- | --- | --- | --- |
 | Squat    | 61.5 × 5 | 77 × 3 | 92.5 × 2 | 104.5 × 2 | 110.5 × 1 | 123 × 5 |
 | Overhead | 28.5 × 5 | 35.5 × 3 | 43 × 2 | 48.5 × 2 | 51.5 × 1 | 57 × 5 |
-| Deadlift | 74 × 5 | 92 × 5 | 110.5 × 5 | 129 × 5 | 147.5 × 5 |
+| Deadlift | 65 × 5 | 81.5 × 5 | 97.5 × 5 | 114 × 5 | 130 × 5 |
 
