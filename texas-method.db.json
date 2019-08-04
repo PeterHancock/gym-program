@@ -120,10 +120,10 @@
     }
   ],
   "target": {
-    "squat": 127.5,
-    "bench": 96,
+    "squat": 125,
+    "bench": 92.5,
     "row": 84.5,
     "overhead": 55,
-    "deadlift": 145
+    "deadlift": 130
   }
 }
