@@ -129,13 +129,25 @@
       },
       "completionTimeEpoch": 1565344120157,
       "completionTime": "Fri Aug 09 2019"
+    },
+    {
+      "completed": {
+        "row": 86.5,
+        "deadlift": 137.5
+      },
+      "failed": {
+        "squat": 125,
+        "overhead": 55
+      },
+      "completionTimeEpoch": 1565963526724,
+      "completionTime": "Fri Aug 16 2019"
     }
   ],
   "target": {
-    "squat": 125,
+    "squat": 120,
     "bench": 95,
-    "row": 86.5,
+    "row": 88.5,
     "overhead": 55,
-    "deadlift": 137.5
+    "deadlift": 130
   }
 }
