@@ -176,6 +176,17 @@
       "failed": {},
       "completionTimeEpoch": 1567755572146,
       "completionTime": "Fri Sep 06 2019"
+    },
+    {
+      "completed": {},
+      "failed": {
+        "squat": 122.5,
+        "row": 81,
+        "overhead": 55,
+        "deadlift": 135
+      },
+      "completionTimeEpoch": 1568640657518,
+      "completionTime": "Mon Sep 16 2019"
     }
   ],
   "target": {
